@@ -1,1 +1,2 @@
 ini text 2
+warna background biru
