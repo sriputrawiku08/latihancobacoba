@@ -1,2 +1,6 @@
 ini text 2
+<<<<<<< HEAD
 warna beckground merah
+=======
+warna background biru
+>>>>>>> fitur
