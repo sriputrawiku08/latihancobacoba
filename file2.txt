@@ -1,2 +1,2 @@
 ini file2.txt
-warna text adalah biru
+warna text adalah hijau
